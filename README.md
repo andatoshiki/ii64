@@ -1,5 +1,5 @@
 ### Hi👋， I'm <a href="https://github.com/ii64">ii64<a>!
-A person that has a lot of interest especially in Embedded device, Security, Backend thing, etc！✨
+A person that has a lot of interest especially in CS, etc！✨
 <br>
 
 ![ii64 github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ii64)
