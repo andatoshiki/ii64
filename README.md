@@ -8,7 +8,7 @@ A person that has a lot of interest especially in CS, etc！✨
 
 ### 📫 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40LoliOverflow-blue">](https://t.me/LoliOverflow)
-
+[<img src="https://img.shields.io/badge/Discord-ii64%236077-7289DA">](https://discord.com/users/304490644938817537)
 
 <!--
 **ii64/ii64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
